@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Prabhjot Kaur 
-- 👀 I’m interested in data entry and excel jobs
-- 🌱 I’m currently learning data analysis
--     I Have skills like sql,power bi, python and microsoft excel.
+- 👀 I’m interested in data analyst jobs
+- 🌱  I Have skills like sql,power bi,r language,tableau, python and microsoft excel.
 - 
 
 
