@@ -86,7 +86,7 @@ I enjoy working with **Excel, SQL, Power BI, Tableau, Python, and R** to solve b
 
 ---
 
-## 🐍 5. Python Sales Data Analysis
+## 🐍 4. Python Sales Data Analysis
 
 📌 **Tools:** Python, Pandas, Matplotlib
 
@@ -127,13 +127,6 @@ I enjoy working with **Excel, SQL, Power BI, Tableau, Python, and R** to solve b
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaurprabhjot6002&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaurprabhjot6002&layout=compact&theme=default)
-
----
 
 # 🤝 Let's Connect
 
